@@ -1,2 +1,3 @@
-# amber
-Explicit Alignment Objectives for Multilingual Bidirectional Encoders
+# Explicit Alignment Objectives for Multilingual Bidirectional Encoders
+
+The code and models will be released soon!
